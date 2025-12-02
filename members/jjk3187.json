@@ -44,22 +44,22 @@ member1.json{
   ],
   "experience": [
     {
-      "period": "
-      "company": "",
-      "term": "",
-      "team": "",
-      "task": "R",
+      "period": "1년",
+      "company": "테크스타트업",
+      "term": "2022.01~2023.01",
+      "team": "프론트엔드팀, 주니어 개발자",
+      "task": "React 기반 웹 애플리케이션 개발",
       "project": {
-        "name": "",
-        "term": "",
-        "detail": ""
+        "name": "고객 대시보드 개발 프로젝트",
+        "term": "2022.03~2022.12",
+        "detail": "React와 TypeScript를 사용한 대시보드 UI 개발 및 상태 관리 최적화"
       }
     }
   ],
   "projects": [
     {
-      "title": "",
-      "description": "",
+      "title": "쇼핑몰 웹사이트",
+      "description": "React와 Node.js를 활용한 전자상거래 플랫폼을 개발했습니다. 사용자 인증, 상품 관리, 결제 시스템을 구현하여 안정적인 쇼핑 경험을 제공합니다.",
       "image": "image/p1.png",
       "link": "project.html"
     }
